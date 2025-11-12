@@ -5,7 +5,7 @@ K.R. Mangalam University - Linux Assignment 2 (Ubuntu on WSL)
 **University:** K.R. Mangalam University  
 **Course:** Computer Science Fundamentals & Career Pathways (ETCCCP105)  
 **Faculty:** Mr. Rajesh Kumar  
-**Student:** Aadii Jha  
+**Student:** Aditya Jha  
 **Semester:** 1  
 **Topic:** Basics of Linux and Open-Source Tools
 
@@ -28,7 +28,7 @@ This assignment demonstrates:
 ---
 
 ## 🖼️ GitHub Repository Screenshot
-*(Add your screenshot here once uploaded below)*
+
 
 ![GitHub Repo Screenshot](./github_screenshot.png)
 
@@ -45,4 +45,4 @@ Through this project, I learned how to:
 
 ## 🔗 Submission
 **Submitted To:** Mr. Rajesh Kumar  
-**Date:** [Enter submission date]  
+**Date:** [15-11-2025]  
